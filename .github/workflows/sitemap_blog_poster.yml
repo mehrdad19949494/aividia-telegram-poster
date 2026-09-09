@@ -1,0 +1,52 @@
+name: Telegram Sitemap Blog Post Publisher (New Workstream)
+
+on:
+  schedule:
+    # 4 times daily strictly within daytime hours (09:00 to 21:00 IRST / UTC+3:30):
+    # Slot 1: 09:30 AM IRST = 06:00 UTC
+    # Slot 2: 01:00 PM IRST = 09:30 UTC
+    # Slot 3: 05:00 PM IRST = 13:30 UTC
+    # Slot 4: 08:30 PM IRST = 17:00 UTC
+    - cron: '0 6 * * *'
+    - cron: '30 9 * * *'
+    - cron: '30 13 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish-sitemap-article:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Sitemap-Driven Telegram Blog Poster
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python automation/sitemap_telegram_publisher.py
+
+      - name: Commit and Push Updated Sitemap Posts Tracker
+        run: |
+          git config --global user.name "Aividia Blog Bot"
+          git config --global user.email "bot@aividia.ir"
+          git add "telegram channel/sitemap_posts_tracker.json"
+          git commit -m "auto: publish sitemap blog article to Telegram & update tracker [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}

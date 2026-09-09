@@ -1,0 +1,64 @@
+name: Telegram Automated Channel Poster (Original Workstream)
+
+on:
+  schedule:
+    # Runs 10 times daily matching IRST posting slots (UTC times roughly offset -3:30):
+    # 08:00 IRST = 04:30 UTC
+    # 09:30 IRST = 06:00 UTC
+    # 11:00 IRST = 07:30 UTC
+    # 12:30 PM IRST = 09:00 UTC
+    # 02:00 PM IRST = 10:30 UTC
+    # 03:30 PM IRST = 12:00 UTC
+    # 05:00 PM IRST = 13:30 UTC
+    # 06:30 PM IRST = 15:00 UTC
+    # 08:00 PM IRST = 16:30 UTC
+    # 09:30 PM IRST = 18:00 UTC
+    - cron: '30 4 * * *'
+    - cron: '0 6 * * *'
+    - cron: '30 7 * * *'
+    - cron: '0 9 * * *'
+    - cron: '30 10 * * *'
+    - cron: '0 12 * * *'
+    - cron: '30 13 * * *'
+    - cron: '0 15 * * *'
+    - cron: '30 16 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  post-to-telegram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Telegram Poster Script
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python automation/github_telegram_poster.py
+
+      - name: Commit and Push Updated Posts Database
+        run: |
+          git config --global user.name "Aividia Telegram Bot"
+          git config --global user.email "bot@aividia.ir"
+          git add "telegram channel/posts_database.json"
+          git commit -m "auto: publish Telegram post & update posts_database.json [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}
