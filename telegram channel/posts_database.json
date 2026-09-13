@@ -4013,9 +4013,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_287_1700",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-09-13T13:40:59.460868",
+    "telegram_message_id": 356
   },
   {
     "id": 288,
