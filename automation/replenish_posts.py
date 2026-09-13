@@ -10,6 +10,7 @@ DB_PATH = os.path.join("telegram channel", "posts_database.json")
 # Verified Canonical Live URLs
 URL_SKIN_AI = "https://aividia.ir/"
 URL_ONLINE_GP = "https://aividia.ir/shop/%d9%88%db%8c%d8%b2%db%8c%d8%aa-%d8%a2%d9%86%d9%84%d8%a7%db%8c%d9%86-%d9%be%d8%b2%d8%b4%da%a9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d9%86%d8%b3%d8%ae%d9%87-%d9%81%d9%88%d8%b1%db%8c/"
+URL_ONLINE_VISIT_BOT = "https://t.me/AividiaVisitBot"
 URL_SKIN_CANCER = "https://aividia.ir/"
 URL_ROUTINE_ANALYZER = "https://aividia.ir/skin-routine-analyzer/"
 URL_GLP1_DOCTOR_SUITE = "https://aividia.ir/glp1-prescribing-assistant-2/"
@@ -759,7 +760,11 @@ def replenish():
             p_url = item["url"]
             
             text = f"📌 <b>{p_title}</b>\n\n" + "\n\n".join(p_lines) + "\n\n"
-            text += f"👉 <a href='{p_url}?utm_source=telegram&utm_medium=channel&utm_campaign={utm}'>{p_cta}</a>\n\n"
+            if item.get("service_target") == "Online GP Doctor Visit":
+                text += f"🤖 <a href='{URL_ONLINE_VISIT_BOT}?start={utm}'>شروع فوری ویزیت در ربات تلگرام (@AividiaVisitBot)</a>\n"
+                text += f"🌐 <a href='{p_url}?utm_source=telegram&utm_medium=channel&utm_campaign={utm}'>{p_cta} در سایت</a>\n\n"
+            else:
+                text += f"👉 <a href='{p_url}?utm_source=telegram&utm_medium=channel&utm_campaign={utm}'>{p_cta}</a>\n\n"
             text += f"{FORWARD_PROMPT}\n\n{CHANNEL_SIGNATURE}"
             
             posts.append({
