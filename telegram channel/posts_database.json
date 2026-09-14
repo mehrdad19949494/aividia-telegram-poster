@@ -4167,9 +4167,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_298_1830",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-09-14T16:25:17.217352",
+    "telegram_message_id": 372
   },
   {
     "id": 299,
