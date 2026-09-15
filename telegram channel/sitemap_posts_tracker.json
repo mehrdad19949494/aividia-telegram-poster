@@ -263,6 +263,12 @@
       "published_at": "2026-09-15T17:42:54.804049",
       "lastmod": "2026-09-14T22:12:07+00:00",
       "telegram_message_id": 389
+    },
+    "https://aividia.ir/ai-skin-type-analyzer/": {
+      "title": "تشخیص نوع پوست با هوش مصنوعی و طراحی علمی روتین پوستی خانگی",
+      "published_at": "2026-09-15T19:55:20.011326",
+      "lastmod": "2026-09-14T22:09:37+00:00",
+      "telegram_message_id": 392
     }
   },
   "history": [
@@ -529,6 +535,12 @@
       "title": "قارچ پوستی در کودکان: علائم، درمان ایمن و پیشگیری",
       "published_at": "2026-09-15T17:42:54.804049",
       "message_id": 389
+    },
+    {
+      "url": "https://aividia.ir/ai-skin-type-analyzer/",
+      "title": "تشخیص نوع پوست با هوش مصنوعی و طراحی علمی روتین پوستی خانگی",
+      "published_at": "2026-09-15T19:55:20.011326",
+      "message_id": 392
     }
   ]
 }
