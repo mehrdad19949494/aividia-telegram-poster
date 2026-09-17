@@ -293,6 +293,12 @@
       "published_at": "2026-09-16T19:48:01.620512",
       "lastmod": "2026-09-16T12:24:33+00:00",
       "telegram_message_id": 406
+    },
+    "https://aividia.ir/skin-infection-introduction/": {
+      "title": "عفونت پوستی : انواع باکتریایی، قارچی و ویروسی و تشخیص",
+      "published_at": "2026-09-17T11:01:27.218067",
+      "lastmod": "2026-09-16T12:16:56+00:00",
+      "telegram_message_id": 409
     }
   },
   "history": [
@@ -589,6 +595,12 @@
       "title": "عکس پسوریازیس در پوست سر، ناخن + راهنمای تصویری جامع تشخیص و درمان",
       "published_at": "2026-09-16T19:48:01.620512",
       "message_id": 406
+    },
+    {
+      "url": "https://aividia.ir/skin-infection-introduction/",
+      "title": "عفونت پوستی : انواع باکتریایی، قارچی و ویروسی و تشخیص",
+      "published_at": "2026-09-17T11:01:27.218067",
+      "message_id": 409
     }
   ]
 }
