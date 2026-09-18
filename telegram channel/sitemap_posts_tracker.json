@@ -329,6 +329,12 @@
       "published_at": "2026-09-18T13:43:10.199910",
       "lastmod": "2026-09-16T11:03:31+00:00",
       "telegram_message_id": 427
+    },
+    "https://aividia.ir/ai-skin-disease-diagnosis/": {
+      "title": "تشخیص بیماری پوستی با عکس: راهنمای جامع هوش مصنوعی",
+      "published_at": "2026-09-18T17:08:12.597295",
+      "lastmod": "2026-09-16T10:19:29+00:00",
+      "telegram_message_id": 431
     }
   },
   "history": [
@@ -661,6 +667,12 @@
       "title": "تشخیص سرطان پوست با هوش مصنوعی | فوری و سریع، دقت بالا ، دسترسی آسان",
       "published_at": "2026-09-18T13:43:10.199910",
       "message_id": 427
+    },
+    {
+      "url": "https://aividia.ir/ai-skin-disease-diagnosis/",
+      "title": "تشخیص بیماری پوستی با عکس: راهنمای جامع هوش مصنوعی",
+      "published_at": "2026-09-18T17:08:12.597295",
+      "message_id": 431
     }
   ]
 }
