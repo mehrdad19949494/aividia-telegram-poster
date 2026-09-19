@@ -359,6 +359,12 @@
       "published_at": "2026-09-19T16:38:20.972565",
       "lastmod": "2026-09-15T23:54:42+00:00",
       "telegram_message_id": 445
+    },
+    "https://aividia.ir/what-is-mounjaro/": {
+      "title": "آمپول مانجارو (Mounjaro) چیست؟ راهنمای جامع لاغری و دیابت",
+      "published_at": "2026-09-19T19:03:59.882735",
+      "lastmod": "2026-09-15T23:37:04+00:00",
+      "telegram_message_id": 448
     }
   },
   "history": [
@@ -721,6 +727,12 @@
       "title": "آمپول لاغری مانجارو: آیا این دارو برای شما مناسب است؟",
       "published_at": "2026-09-19T16:38:20.972565",
       "message_id": 445
+    },
+    {
+      "url": "https://aividia.ir/what-is-mounjaro/",
+      "title": "آمپول مانجارو (Mounjaro) چیست؟ راهنمای جامع لاغری و دیابت",
+      "published_at": "2026-09-19T19:03:59.882735",
+      "message_id": 448
     }
   ]
 }
