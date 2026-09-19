@@ -353,6 +353,12 @@
       "published_at": "2026-09-19T13:16:02.698753",
       "lastmod": "2026-09-16T00:18:33+00:00",
       "telegram_message_id": 441
+    },
+    "https://aividia.ir/mounjaro-prescription-indication/": {
+      "title": "آمپول لاغری مانجارو: آیا این دارو برای شما مناسب است؟",
+      "published_at": "2026-09-19T16:38:20.972565",
+      "lastmod": "2026-09-15T23:54:42+00:00",
+      "telegram_message_id": 445
     }
   },
   "history": [
@@ -709,6 +715,12 @@
       "title": "آمپول و قرص اسپارتینا: چند کیلو لاغر میکند و آیا شما کاندید مناسبی هستید؟",
       "published_at": "2026-09-19T13:16:02.698753",
       "message_id": 441
+    },
+    {
+      "url": "https://aividia.ir/mounjaro-prescription-indication/",
+      "title": "آمپول لاغری مانجارو: آیا این دارو برای شما مناسب است؟",
+      "published_at": "2026-09-19T16:38:20.972565",
+      "message_id": 445
     }
   ]
 }
