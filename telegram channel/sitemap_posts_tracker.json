@@ -389,6 +389,12 @@
       "published_at": "2026-09-20T19:10:49.733248",
       "lastmod": "2026-08-24T10:17:04+00:00",
       "telegram_message_id": 462
+    },
+    "https://aividia.ir/spartina-introduction/": {
+      "title": "آمپول اسپارتینا (Spartina) چیست؟ راهنمای جامع مانجارو ایرانی برای لاغری و دیابت",
+      "published_at": "2026-09-21T12:04:31.095264",
+      "lastmod": "2026-08-22T10:24:44+00:00",
+      "telegram_message_id": 465
     }
   },
   "history": [
@@ -781,6 +787,12 @@
       "title": "رژیم غذایی همزمان با مانجارو: راهنمای علمی برای جلوگیری از تحلیل عضلانی و شلی پوست",
       "published_at": "2026-09-20T19:10:49.733248",
       "message_id": 462
+    },
+    {
+      "url": "https://aividia.ir/spartina-introduction/",
+      "title": "آمپول اسپارتینا (Spartina) چیست؟ راهنمای جامع مانجارو ایرانی برای لاغری و دیابت",
+      "published_at": "2026-09-21T12:04:31.095264",
+      "message_id": 465
     }
   ]
 }
