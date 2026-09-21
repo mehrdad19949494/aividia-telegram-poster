@@ -395,6 +395,12 @@
       "published_at": "2026-09-21T12:04:31.095264",
       "lastmod": "2026-08-22T10:24:44+00:00",
       "telegram_message_id": 465
+    },
+    "https://aividia.ir/mounjaro-injection-guide/": {
+      "title": "آموزش تصویری نحوه تزریق مانجارو (راهنمای گام‌به‌گام و توصیه‌های بالینی)",
+      "published_at": "2026-09-21T15:58:17.527462",
+      "lastmod": "2026-08-22T10:00:43+00:00",
+      "telegram_message_id": 469
     }
   },
   "history": [
@@ -793,6 +799,12 @@
       "title": "آمپول اسپارتینا (Spartina) چیست؟ راهنمای جامع مانجارو ایرانی برای لاغری و دیابت",
       "published_at": "2026-09-21T12:04:31.095264",
       "message_id": 465
+    },
+    {
+      "url": "https://aividia.ir/mounjaro-injection-guide/",
+      "title": "آموزش تصویری نحوه تزریق مانجارو (راهنمای گام‌به‌گام و توصیه‌های بالینی)",
+      "published_at": "2026-09-21T15:58:17.527462",
+      "message_id": 469
     }
   ]
 }
