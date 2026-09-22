@@ -431,6 +431,12 @@
       "published_at": "2026-09-22T17:41:13.263845",
       "lastmod": "2026-08-01T20:09:13+00:00",
       "telegram_message_id": 487
+    },
+    "https://aividia.ir/darman-alergi-posti/": {
+      "title": "درمان خانگی آلرژی پوستی: تسکین و پیشگیری طبیعی",
+      "published_at": "2026-09-22T19:57:22.774020",
+      "lastmod": "2026-08-01T20:03:37+00:00",
+      "telegram_message_id": 490
     }
   },
   "history": [
@@ -865,6 +871,12 @@
       "title": "ویتیلیگو: علل، علائم، انواع و تشخیص پزشکی",
       "published_at": "2026-09-22T17:41:13.263845",
       "message_id": 487
+    },
+    {
+      "url": "https://aividia.ir/darman-alergi-posti/",
+      "title": "درمان خانگی آلرژی پوستی: تسکین و پیشگیری طبیعی",
+      "published_at": "2026-09-22T19:57:22.774020",
+      "message_id": 490
     }
   ]
 }
