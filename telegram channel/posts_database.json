@@ -5707,9 +5707,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_408_1830",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-09-25T15:22:29.845494",
+    "telegram_message_id": 526
   },
   {
     "id": 409,
