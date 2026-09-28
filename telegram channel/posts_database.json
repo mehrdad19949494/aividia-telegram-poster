@@ -6169,9 +6169,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_441_0800",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-09-28T21:04:22.682980",
+    "telegram_message_id": 572
   },
   {
     "id": 442,
