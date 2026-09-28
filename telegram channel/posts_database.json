@@ -6141,9 +6141,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_439_2000",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-09-28T19:26:14.915728",
+    "telegram_message_id": 569
   },
   {
     "id": 440,
