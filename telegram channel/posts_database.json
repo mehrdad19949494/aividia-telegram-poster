@@ -6127,9 +6127,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_438_1830",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-09-28T18:12:43.435908",
+    "telegram_message_id": 568
   },
   {
     "id": 439,
