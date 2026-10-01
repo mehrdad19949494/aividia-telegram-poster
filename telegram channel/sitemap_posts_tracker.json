@@ -635,6 +635,12 @@
       "published_at": "2026-10-01T12:29:51.112282",
       "lastmod": "2026-07-25T08:49:43+00:00",
       "telegram_message_id": 605
+    },
+    "https://aividia.ir/what-is-scabies/": {
+      "title": "گال چیست؟ علائم، علل، تشخیص و عوارض بیماری گال",
+      "published_at": "2026-10-01T16:36:32.301396",
+      "lastmod": "2026-07-24T12:01:35+00:00",
+      "telegram_message_id": 609
     }
   },
   "history": [
@@ -1273,6 +1279,12 @@
       "title": "آکنه و جوش صورت چیست؟ علل، علائم، مکانیسم ایجاد و روش‌های تشخیص",
       "published_at": "2026-10-01T12:29:51.112282",
       "message_id": 605
+    },
+    {
+      "url": "https://aividia.ir/what-is-scabies/",
+      "title": "گال چیست؟ علائم، علل، تشخیص و عوارض بیماری گال",
+      "published_at": "2026-10-01T16:36:32.301396",
+      "message_id": 609
     }
   ]
 }
