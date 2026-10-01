@@ -647,6 +647,12 @@
       "published_at": "2026-10-01T18:57:51.693905",
       "lastmod": "2026-07-24T10:56:12+00:00",
       "telegram_message_id": 613
+    },
+    "https://aividia.ir/what-is-hives/": {
+      "title": "کهیر چیست؟ علائم، علل و روش‌های تشخیص دقیق",
+      "published_at": "2026-10-01T21:30:19.971809",
+      "lastmod": "2026-07-24T10:24:03+00:00",
+      "telegram_message_id": 616
     }
   },
   "history": [
@@ -1297,6 +1303,12 @@
       "title": "گال در کودکان و نوزادان: علائم خاص، راهنمای والدین",
       "published_at": "2026-10-01T18:57:51.693905",
       "message_id": 613
+    },
+    {
+      "url": "https://aividia.ir/what-is-hives/",
+      "title": "کهیر چیست؟ علائم، علل و روش‌های تشخیص دقیق",
+      "published_at": "2026-10-01T21:30:19.971809",
+      "message_id": 616
     }
   ]
 }
