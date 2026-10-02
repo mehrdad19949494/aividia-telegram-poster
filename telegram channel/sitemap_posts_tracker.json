@@ -653,6 +653,12 @@
       "published_at": "2026-10-01T21:30:19.971809",
       "lastmod": "2026-07-24T10:24:03+00:00",
       "telegram_message_id": 616
+    },
+    "https://aividia.ir/hives-in-children/": {
+      "title": "کهیر در کودکان: علل، علائم و مراقبت‌های والدین",
+      "published_at": "2026-10-02T11:56:06.347322",
+      "lastmod": "2026-07-24T09:19:40+00:00",
+      "telegram_message_id": 619
     }
   },
   "history": [
@@ -1309,6 +1315,12 @@
       "title": "کهیر چیست؟ علائم، علل و روش‌های تشخیص دقیق",
       "published_at": "2026-10-01T21:30:19.971809",
       "message_id": 616
+    },
+    {
+      "url": "https://aividia.ir/hives-in-children/",
+      "title": "کهیر در کودکان: علل، علائم و مراقبت‌های والدین",
+      "published_at": "2026-10-02T11:56:06.347322",
+      "message_id": 619
     }
   ]
 }
