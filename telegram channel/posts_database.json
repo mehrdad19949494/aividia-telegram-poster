@@ -6827,9 +6827,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_488_1830",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-03T14:46:33.926767",
+    "telegram_message_id": 638
   },
   {
     "id": 489,
