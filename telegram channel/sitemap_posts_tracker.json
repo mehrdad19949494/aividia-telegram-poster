@@ -689,6 +689,12 @@
       "published_at": "2026-10-03T14:22:44.982720",
       "lastmod": "2026-07-23T11:13:40+00:00",
       "telegram_message_id": 637
+    },
+    "https://aividia.ir/what-is-eczema/": {
+      "title": "اگزما چیست؟ علائم، علل، انواع و تشخیص دقیق آن",
+      "published_at": "2026-10-03T17:29:12.713489",
+      "lastmod": "2026-07-23T10:51:34+00:00",
+      "telegram_message_id": 641
     }
   },
   "history": [
@@ -1381,6 +1387,12 @@
       "title": "خارش شدید شبانه؛ آیا گال دارید؟ راه‌های تشخیص و درمان قطعی",
       "published_at": "2026-10-03T14:22:44.982720",
       "message_id": 637
+    },
+    {
+      "url": "https://aividia.ir/what-is-eczema/",
+      "title": "اگزما چیست؟ علائم، علل، انواع و تشخیص دقیق آن",
+      "published_at": "2026-10-03T17:29:12.713489",
+      "message_id": 641
     }
   ]
 }
