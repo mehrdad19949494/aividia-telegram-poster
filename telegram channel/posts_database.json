@@ -7037,9 +7037,9 @@
     "has_photo": true,
     "photo_url": "telegram channel/images/infographic_skin_barrier.jpg",
     "utm_campaign": "post_503_1100",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-04T20:48:50.377529",
+    "telegram_message_id": 659
   },
   {
     "id": 504,
