@@ -719,6 +719,12 @@
       "published_at": "2026-10-04T17:44:03.021343",
       "lastmod": "2026-07-14T13:25:30+00:00",
       "telegram_message_id": 655
+    },
+    "https://aividia.ir/ai-vs-doctors-skin-diagnosis-accuracy/": {
+      "title": "هوش مصنوعی در مقابل متخصص پوست: حقایق علمی درباره دقت و محدودیت‌های اسکنرهای پوست",
+      "published_at": "2026-10-04T19:52:24.569789",
+      "lastmod": "2026-07-14T13:12:33+00:00",
+      "telegram_message_id": 658
     }
   },
   "history": [
@@ -1441,6 +1447,12 @@
       "title": "انواع ضایعات پوستی شایع در ایران: هوش مصنوعی",
       "published_at": "2026-10-04T17:44:03.021343",
       "message_id": 655
+    },
+    {
+      "url": "https://aividia.ir/ai-vs-doctors-skin-diagnosis-accuracy/",
+      "title": "هوش مصنوعی در مقابل متخصص پوست: حقایق علمی درباره دقت و محدودیت‌های اسکنرهای پوست",
+      "published_at": "2026-10-04T19:52:24.569789",
+      "message_id": 658
     }
   ]
 }
