@@ -725,6 +725,12 @@
       "published_at": "2026-10-04T19:52:24.569789",
       "lastmod": "2026-07-14T13:12:33+00:00",
       "telegram_message_id": 658
+    },
+    "https://aividia.ir/how-to-take-picture-ai-skin-analysis/": {
+      "title": "راهنمای جامع عکاسی پزشکی با موبایل برای تشخیص هوش مصنوعی",
+      "published_at": "2026-10-05T13:41:24.881448",
+      "lastmod": "2026-07-14T12:34:04+00:00",
+      "telegram_message_id": 661
     }
   },
   "history": [
@@ -1453,6 +1459,12 @@
       "title": "هوش مصنوعی در مقابل متخصص پوست: حقایق علمی درباره دقت و محدودیت‌های اسکنرهای پوست",
       "published_at": "2026-10-04T19:52:24.569789",
       "message_id": 658
+    },
+    {
+      "url": "https://aividia.ir/how-to-take-picture-ai-skin-analysis/",
+      "title": "راهنمای جامع عکاسی پزشکی با موبایل برای تشخیص هوش مصنوعی",
+      "published_at": "2026-10-05T13:41:24.881448",
+      "message_id": 661
     }
   ]
 }
