@@ -731,6 +731,12 @@
       "published_at": "2026-10-05T13:41:24.881448",
       "lastmod": "2026-07-14T12:34:04+00:00",
       "telegram_message_id": 661
+    },
+    "https://aividia.ir/ai-skin-disease-diagnosis-aividia-model-structure/": {
+      "title": "فناوری تشخیص بیماری پوستی با عکس هوش مصنوعی و واکاوی فنی مدل ۷۲۴",
+      "published_at": "2026-10-05T18:42:06.782054",
+      "lastmod": "2026-07-14T09:53:48+00:00",
+      "telegram_message_id": 665
     }
   },
   "history": [
@@ -1465,6 +1471,12 @@
       "title": "راهنمای جامع عکاسی پزشکی با موبایل برای تشخیص هوش مصنوعی",
       "published_at": "2026-10-05T13:41:24.881448",
       "message_id": 661
+    },
+    {
+      "url": "https://aividia.ir/ai-skin-disease-diagnosis-aividia-model-structure/",
+      "title": "فناوری تشخیص بیماری پوستی با عکس هوش مصنوعی و واکاوی فنی مدل ۷۲۴",
+      "published_at": "2026-10-05T18:42:06.782054",
+      "message_id": 665
     }
   ]
 }
