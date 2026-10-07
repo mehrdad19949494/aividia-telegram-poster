@@ -7317,9 +7317,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_523_1100",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-07T11:15:47.881222",
+    "telegram_message_id": 686
   },
   {
     "id": 524,
