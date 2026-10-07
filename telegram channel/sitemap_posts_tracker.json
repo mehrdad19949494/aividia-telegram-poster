@@ -779,6 +779,12 @@
       "published_at": "2026-10-07T16:44:53.228050",
       "lastmod": "2026-06-12T11:16:47+00:00",
       "telegram_message_id": 691
+    },
+    "https://aividia.ir/rizesh-mu-introduction/": {
+      "title": "ریزش مو: علل، انواع الگوها و روش‌های تشخیص",
+      "published_at": "2026-10-07T19:25:49.296749",
+      "lastmod": "2026-06-10T16:51:06+00:00",
+      "telegram_message_id": 695
     }
   },
   "history": [
@@ -1561,6 +1567,12 @@
       "title": "درمان خانگی ریزش مو: ۲۵ روش طبیعی، تغذیه‌ای و علمی",
       "published_at": "2026-10-07T16:44:53.228050",
       "message_id": 691
+    },
+    {
+      "url": "https://aividia.ir/rizesh-mu-introduction/",
+      "title": "ریزش مو: علل، انواع الگوها و روش‌های تشخیص",
+      "published_at": "2026-10-07T19:25:49.296749",
+      "message_id": 695
     }
   ]
 }
