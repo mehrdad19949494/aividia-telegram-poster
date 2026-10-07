@@ -767,6 +767,12 @@
       "published_at": "2026-10-06T21:22:33.636173",
       "lastmod": "2026-07-13T10:36:32+00:00",
       "telegram_message_id": 684
+    },
+    "https://aividia.ir/avarez-posti-daruha/": {
+      "title": "عوارض پوستی داروها: انواع، علائم، تشخیص و اقدامات اورژانسی",
+      "published_at": "2026-10-07T12:42:21.687162",
+      "lastmod": "2026-06-12T19:28:46+00:00",
+      "telegram_message_id": 687
     }
   },
   "history": [
@@ -1537,6 +1543,12 @@
       "title": "بهترین داروها و کلینیک‌های درمان عفونت پوستی",
       "published_at": "2026-10-06T21:22:33.636173",
       "message_id": 684
+    },
+    {
+      "url": "https://aividia.ir/avarez-posti-daruha/",
+      "title": "عوارض پوستی داروها: انواع، علائم، تشخیص و اقدامات اورژانسی",
+      "published_at": "2026-10-07T12:42:21.687162",
+      "message_id": 687
     }
   ]
 }
