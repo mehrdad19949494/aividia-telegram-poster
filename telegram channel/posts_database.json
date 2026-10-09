@@ -7653,9 +7653,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_547_1700",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-09T18:09:10.627390",
+    "telegram_message_id": 721
   },
   {
     "id": 548,
