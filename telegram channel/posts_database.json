@@ -7835,9 +7835,9 @@
     "has_photo": true,
     "photo_url": "telegram channel/images/infographic_skincare_layering.jpg",
     "utm_campaign": "post_560_2130",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-10T20:12:43.626716",
+    "telegram_message_id": 739
   },
   {
     "id": 561,
