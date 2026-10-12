@@ -8017,9 +8017,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_573_1100",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-12T15:04:08.541679",
+    "telegram_message_id": 757
   },
   {
     "id": 574,
