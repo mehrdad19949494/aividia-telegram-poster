@@ -86,9 +86,9 @@
     },
     "https://aividia.ir/tinea-capitis-pediatric-scalp-fungus/": {
       "title": "قارچ سر و کچلی قارچی در کودکان (Tinea Capitis)",
-      "published_at": "2026-09-07T18:17:43.727735",
+      "published_at": "2026-10-13T21:38:52.642219",
       "lastmod": "2026-08-31T17:12:44+00:00",
-      "telegram_message_id": 286
+      "telegram_message_id": 778
     },
     "https://aividia.ir/impetigo-pediatric-bacterial-infection/": {
       "title": "زردزخم در کودکان و نوزادان",
@@ -1729,6 +1729,12 @@
       "title": "تفاوت جوش هورمونی و آکنه باکتریایی (Hormonal Acne vs Bacterial Acne)",
       "published_at": "2026-10-13T19:55:05.235106",
       "message_id": 775
+    },
+    {
+      "url": "https://aividia.ir/tinea-capitis-pediatric-scalp-fungus/",
+      "title": "قارچ سر و کچلی قارچی در کودکان (Tinea Capitis)",
+      "published_at": "2026-10-13T21:38:52.642219",
+      "message_id": 778
     }
   ]
 }
