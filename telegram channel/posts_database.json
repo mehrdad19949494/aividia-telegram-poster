@@ -8367,9 +8367,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_598_1830",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-14T18:06:08.138846",
+    "telegram_message_id": 788
   },
   {
     "id": 599,
