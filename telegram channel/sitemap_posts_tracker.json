@@ -92,9 +92,9 @@
     },
     "https://aividia.ir/impetigo-pediatric-bacterial-infection/": {
       "title": "زردزخم در کودکان و نوزادان",
-      "published_at": "2026-09-07T20:19:59.195001",
+      "published_at": "2026-10-14T11:15:18.546336",
       "lastmod": "2026-08-31T16:14:52+00:00",
-      "telegram_message_id": 290
+      "telegram_message_id": 781
     },
     "https://aividia.ir/online-dermatology-consultation-ai-vs-doctor/": {
       "title": "مشاوره پوست آنلاین با هوش مصنوعی و ویزیت پزشک: مقایسه هزینه، سرعت و دقت در ایران",
@@ -1735,6 +1735,12 @@
       "title": "قارچ سر و کچلی قارچی در کودکان (Tinea Capitis)",
       "published_at": "2026-10-13T21:38:52.642219",
       "message_id": 778
+    },
+    {
+      "url": "https://aividia.ir/impetigo-pediatric-bacterial-infection/",
+      "title": "زردزخم در کودکان و نوزادان",
+      "published_at": "2026-10-14T11:15:18.546336",
+      "message_id": 781
     }
   ]
 }
