@@ -8493,9 +8493,9 @@
     "has_photo": true,
     "photo_url": "telegram channel/images/infographic_abcde_melanoma.jpg",
     "utm_campaign": "post_607_1700",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-15T16:35:44.042561",
+    "telegram_message_id": 801
   },
   {
     "id": 608,
