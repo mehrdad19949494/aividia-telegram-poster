@@ -116,9 +116,9 @@
     },
     "https://aividia.ir/home-skin-routine-dry-sensitive-barrier/": {
       "title": "روتین پوستی خانگی برای پوست خشک و دهیدراته: بازسازی سد دفاعی، آبرسانی عمیق و ترکیبات ممنوعه",
-      "published_at": "2026-09-08T19:42:07.517744",
+      "published_at": "2026-10-15T10:54:26.420902",
       "lastmod": "2026-08-30T16:48:45+00:00",
-      "telegram_message_id": 304
+      "telegram_message_id": 795
     },
     "https://aividia.ir/damaged-skin-barrier-repair-guide/": {
       "title": "ترمیم سد دفاعی پوست (Skin Barrier): درمان خانگی قرمزی، سوزش، خارش و پوست دهیدراته ناشی از لایه‌بردار",
@@ -1759,6 +1759,12 @@
       "title": "روتین پوستی خانگی برای پوست چرب و جوش‌دار: مراحل صبح، شب و ماسک‌های علمی در دسترس",
       "published_at": "2026-10-14T20:22:28.748365",
       "message_id": 792
+    },
+    {
+      "url": "https://aividia.ir/home-skin-routine-dry-sensitive-barrier/",
+      "title": "روتین پوستی خانگی برای پوست خشک و دهیدراته: بازسازی سد دفاعی، آبرسانی عمیق و ترکیبات ممنوعه",
+      "published_at": "2026-10-15T10:54:26.420902",
+      "message_id": 795
     }
   ]
 }
