@@ -140,9 +140,9 @@
     },
     "https://aividia.ir/scabies-outbreak-dormitory-barracks-protocol/": {
       "title": "مهار شیوع گال در خوابگاه دانشجویی، پادگان و مدارس: پروتکل درمان دسته‌جمعی و گندزدایی اتاق‌ها",
-      "published_at": "2026-09-10T17:03:37.884112",
+      "published_at": "2026-10-16T10:45:44.043593",
       "lastmod": "2026-08-29T18:17:03+00:00",
-      "telegram_message_id": 319
+      "telegram_message_id": 809
     },
     "https://aividia.ir/mounjaro-contraindications-black-box/": {
       "title": "کنترااندیکاسیون‌های مانجارو: چه کسانی مطلقاً نباید تیرزپاتید تزریق کنند؟",
@@ -1783,6 +1783,12 @@
       "title": "تشخیص نوع پوست با هوش مصنوعی و ساخت روتین اختصاصی: راهنمای گام‌به‌گام و ابزار آنلاین",
       "published_at": "2026-10-15T20:07:22.443314",
       "message_id": 806
+    },
+    {
+      "url": "https://aividia.ir/scabies-outbreak-dormitory-barracks-protocol/",
+      "title": "مهار شیوع گال در خوابگاه دانشجویی، پادگان و مدارس: پروتکل درمان دسته‌جمعی و گندزدایی اتاق‌ها",
+      "published_at": "2026-10-16T10:45:44.043593",
+      "message_id": 809
     }
   ]
 }
