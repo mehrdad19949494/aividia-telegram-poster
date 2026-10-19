@@ -9067,9 +9067,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_648_1830",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-19T19:23:57.671907",
+    "telegram_message_id": 858
   },
   {
     "id": 649,
