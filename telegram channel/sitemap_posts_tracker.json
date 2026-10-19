@@ -230,9 +230,9 @@
     },
     "https://aividia.ir/mounjaro-dosing-schedule-missed-dose/": {
       "title": "پروتکل‌های تنظیم دوز مانجارو: بهترین زمان تزریق و راهنمای دوزهای فراموش‌شده",
-      "published_at": "2026-09-14T15:57:09.518595",
-      "lastmod": "2026-09-12T19:30:51+00:00",
-      "telegram_message_id": 371
+      "published_at": "2026-10-19T21:17:57.339545",
+      "lastmod": "2026-09-16T00:13:31+00:00",
+      "telegram_message_id": 862
     },
     "https://aividia.ir/genital-scabies-master-guide/": {
       "title": "گال تناسلی در مردان و زنان: علائم، فرق با زگیل و هرپس + درمان محرمانه فوری توسط پزشک",
@@ -1873,6 +1873,12 @@
       "title": "شوره سر چرب در برابر خشک و اگزمای سبورئیک: علت پوسته ریزی، شامپوهای ضدشوره و درمان خانگی",
       "published_at": "2026-10-19T19:24:01.212988",
       "message_id": 859
+    },
+    {
+      "url": "https://aividia.ir/mounjaro-dosing-schedule-missed-dose/",
+      "title": "پروتکل‌های تنظیم دوز مانجارو: بهترین زمان تزریق و راهنمای دوزهای فراموش‌شده",
+      "published_at": "2026-10-19T21:17:57.339545",
+      "message_id": 862
     }
   ]
 }
