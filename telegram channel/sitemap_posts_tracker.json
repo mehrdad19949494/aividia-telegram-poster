@@ -266,9 +266,9 @@
     },
     "https://aividia.ir/ai-skin-type-analyzer/": {
       "title": "تشخیص نوع پوست با هوش مصنوعی و طراحی علمی روتین پوستی خانگی",
-      "published_at": "2026-09-15T19:55:20.011326",
-      "lastmod": "2026-09-14T22:09:37+00:00",
-      "telegram_message_id": 392
+      "published_at": "2026-10-21T14:34:08.875054",
+      "lastmod": "2026-09-16T10:08:24+00:00",
+      "telegram_message_id": 883
     },
     "https://aividia.ir/%d8%aa%d8%b4%d8%ae%db%8c%d8%b5-%d8%b6%d8%a7%db%8c%d8%b9%d8%a7%d8%aa-%d9%be%d9%88%d8%b3%d8%aa%db%8c-%d8%a8%d8%a7-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/": {
       "title": "تشخیص ضایعات پوستی با هوش مصنوعی : آیا واقعا قابل اعتماد است؟",
@@ -1909,6 +1909,12 @@
       "title": "قارچ پوستی در کودکان: علائم، درمان ایمن و پیشگیری",
       "published_at": "2026-10-21T11:13:41.584593",
       "message_id": 879
+    },
+    {
+      "url": "https://aividia.ir/ai-skin-type-analyzer/",
+      "title": "تشخیص نوع پوست با هوش مصنوعی و طراحی علمی روتین پوستی خانگی",
+      "published_at": "2026-10-21T14:34:08.875054",
+      "message_id": 883
     }
   ]
 }
