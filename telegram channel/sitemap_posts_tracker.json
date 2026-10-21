@@ -260,9 +260,9 @@
     },
     "https://aividia.ir/fungal-infection-children/": {
       "title": "قارچ پوستی در کودکان: علائم، درمان ایمن و پیشگیری",
-      "published_at": "2026-09-15T17:42:54.804049",
+      "published_at": "2026-10-21T11:13:41.584593",
       "lastmod": "2026-09-14T22:12:07+00:00",
-      "telegram_message_id": 389
+      "telegram_message_id": 879
     },
     "https://aividia.ir/ai-skin-type-analyzer/": {
       "title": "تشخیص نوع پوست با هوش مصنوعی و طراحی علمی روتین پوستی خانگی",
@@ -1903,6 +1903,12 @@
       "title": "واسکولیت پوستی: انواع، علائم و روش‌های تشخیص",
       "published_at": "2026-10-20T20:12:52.074090",
       "message_id": 876
+    },
+    {
+      "url": "https://aividia.ir/fungal-infection-children/",
+      "title": "قارچ پوستی در کودکان: علائم، درمان ایمن و پیشگیری",
+      "published_at": "2026-10-21T11:13:41.584593",
+      "message_id": 879
     }
   ]
 }
