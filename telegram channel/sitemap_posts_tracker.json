@@ -296,9 +296,9 @@
     },
     "https://aividia.ir/skin-infection-introduction/": {
       "title": "عفونت پوستی : انواع باکتریایی، قارچی و ویروسی و تشخیص",
-      "published_at": "2026-09-17T11:01:27.218067",
+      "published_at": "2026-10-22T18:05:46.754599",
       "lastmod": "2026-09-16T12:16:56+00:00",
-      "telegram_message_id": 409
+      "telegram_message_id": 901
     },
     "https://aividia.ir/elate-lake-sefid-pusti-chist/": {
       "title": "علت لکه‌های سفید روی پوست: تفاوت پیسی (ویتیلیگو) با قارچ ورسیکالر، پیتریازیس آلبا و اگزما + عکس",
@@ -1939,6 +1939,12 @@
       "title": "عکس پسوریازیس در پوست سر، ناخن + راهنمای تصویری جامع تشخیص و درمان",
       "published_at": "2026-10-22T14:35:45.564866",
       "message_id": 897
+    },
+    {
+      "url": "https://aividia.ir/skin-infection-introduction/",
+      "title": "عفونت پوستی : انواع باکتریایی، قارچی و ویروسی و تشخیص",
+      "published_at": "2026-10-22T18:05:46.754599",
+      "message_id": 901
     }
   ]
 }
