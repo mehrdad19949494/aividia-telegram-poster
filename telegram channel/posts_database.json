@@ -9585,9 +9585,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_685_1400",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-23T14:05:03.607411",
+    "telegram_message_id": 910
   },
   {
     "id": 686,
