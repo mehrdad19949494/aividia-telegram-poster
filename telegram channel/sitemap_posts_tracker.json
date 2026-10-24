@@ -332,9 +332,9 @@
     },
     "https://aividia.ir/ai-skin-disease-diagnosis/": {
       "title": "تشخیص بیماری پوستی با عکس: راهنمای جامع هوش مصنوعی",
-      "published_at": "2026-09-18T17:08:12.597295",
+      "published_at": "2026-10-24T10:20:11.166964",
       "lastmod": "2026-09-16T10:19:29+00:00",
-      "telegram_message_id": 431
+      "telegram_message_id": 921
     },
     "https://aividia.ir/%d8%af%d8%b1%d9%85%d8%a7%d9%86-%d9%82%d8%b7%d8%b9%db%8c-%da%af%d8%a7%d9%84-%d8%af%d8%b1-24-%d8%b3%d8%a7%d8%b9%d8%aa-%d9%86%d8%b3%d8%ae%d9%87-%db%8c-%d8%a2%d9%86%d9%84%d8%a7%db%8c%d9%86/": {
       "title": "درمان قطعی گال در 24 ساعت + نسخه ی آنلاین",
@@ -1975,6 +1975,12 @@
       "title": "تشخیص سرطان پوست با هوش مصنوعی | فوری و سریع، دقت بالا ، دسترسی آسان",
       "published_at": "2026-10-23T20:08:58.506297",
       "message_id": 918
+    },
+    {
+      "url": "https://aividia.ir/ai-skin-disease-diagnosis/",
+      "title": "تشخیص بیماری پوستی با عکس: راهنمای جامع هوش مصنوعی",
+      "published_at": "2026-10-24T10:20:11.166964",
+      "message_id": 921
     }
   ]
 }
