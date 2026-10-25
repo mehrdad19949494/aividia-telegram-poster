@@ -362,9 +362,9 @@
     },
     "https://aividia.ir/what-is-mounjaro/": {
       "title": "آمپول مانجارو (Mounjaro) چیست؟ راهنمای جامع لاغری و دیابت",
-      "published_at": "2026-09-19T19:03:59.882735",
+      "published_at": "2026-10-25T13:48:52.995680",
       "lastmod": "2026-09-15T23:37:04+00:00",
-      "telegram_message_id": 448
+      "telegram_message_id": 939
     },
     "https://aividia.ir/mounjaro-drug-interaction/": {
       "title": "تداخلات دارویی مانجارو (تیرزپاتید): خطرات هیپوگلیسمی، قرص ضدبارداری و جراحی",
@@ -2005,6 +2005,12 @@
       "title": "آمپول لاغری مانجارو: آیا این دارو برای شما مناسب است؟",
       "published_at": "2026-10-25T10:47:22.775311",
       "message_id": 935
+    },
+    {
+      "url": "https://aividia.ir/what-is-mounjaro/",
+      "title": "آمپول مانجارو (Mounjaro) چیست؟ راهنمای جامع لاغری و دیابت",
+      "published_at": "2026-10-25T13:48:52.995680",
+      "message_id": 939
     }
   ]
 }
