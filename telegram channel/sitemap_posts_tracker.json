@@ -392,9 +392,9 @@
     },
     "https://aividia.ir/spartina-introduction/": {
       "title": "آمپول اسپارتینا (Spartina) چیست؟ راهنمای جامع مانجارو ایرانی برای لاغری و دیابت",
-      "published_at": "2026-09-21T12:04:31.095264",
+      "published_at": "2026-10-26T21:15:46.902493",
       "lastmod": "2026-08-22T10:24:44+00:00",
-      "telegram_message_id": 465
+      "telegram_message_id": 960
     },
     "https://aividia.ir/mounjaro-injection-guide/": {
       "title": "آموزش تصویری نحوه تزریق مانجارو (راهنمای گام‌به‌گام و توصیه‌های بالینی)",
@@ -2035,6 +2035,12 @@
       "title": "رژیم غذایی همزمان با مانجارو: راهنمای علمی برای جلوگیری از تحلیل عضلانی و شلی پوست",
       "published_at": "2026-10-26T19:28:14.867189",
       "message_id": 957
+    },
+    {
+      "url": "https://aividia.ir/spartina-introduction/",
+      "title": "آمپول اسپارتینا (Spartina) چیست؟ راهنمای جامع مانجارو ایرانی برای لاغری و دیابت",
+      "published_at": "2026-10-26T21:15:46.902493",
+      "message_id": 960
     }
   ]
 }
