@@ -10285,9 +10285,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_735_1400",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-10-28T15:45:03.715841",
+    "telegram_message_id": 980
   },
   {
     "id": 736,
