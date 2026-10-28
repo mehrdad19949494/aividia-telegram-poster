@@ -440,9 +440,9 @@
     },
     "https://aividia.ir/allergy-posti-dar-kodakan/": {
       "title": "آلرژی پوستی در کودکان و نوزادان: علل و مراقبت",
-      "published_at": "2026-09-23T10:49:25.951161",
+      "published_at": "2026-10-28T21:25:12.689282",
       "lastmod": "2026-08-01T19:59:09+00:00",
-      "telegram_message_id": 493
+      "telegram_message_id": 988
     },
     "https://aividia.ir/%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d8%aa-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%88%d8%a7%d8%b3%da%a9%d9%88%d9%84%db%8c%d8%aa-%d9%be%d9%88%d8%b3%d8%aa%db%8c-%d8%aa%d8%b3%da%a9%db%8c%d9%86-%d9%88-%d9%be%db%8c/": {
       "title": "مراقبت خانگی واسکولیت پوستی: تسکین و پیشگیری",
@@ -2083,6 +2083,12 @@
       "title": "درمان خانگی آلرژی پوستی: تسکین و پیشگیری طبیعی",
       "published_at": "2026-10-28T18:58:20.822036",
       "message_id": 985
+    },
+    {
+      "url": "https://aividia.ir/allergy-posti-dar-kodakan/",
+      "title": "آلرژی پوستی در کودکان و نوزادان: علل و مراقبت",
+      "published_at": "2026-10-28T21:25:12.689282",
+      "message_id": 988
     }
   ]
 }
