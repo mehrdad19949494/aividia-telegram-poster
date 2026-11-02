@@ -548,9 +548,9 @@
     },
     "https://aividia.ir/what-is-seborrheic-dermatitis/": {
       "title": "درماتیت سبورئیک (اگزما چرب) چیست؟ علائم، علت قارچی و درمان شوره و التهاب سر و صورت",
-      "published_at": "2026-09-27T17:52:41.174569",
+      "published_at": "2026-11-02T19:39:44.648938",
       "lastmod": "2026-07-26T20:04:17+00:00",
-      "telegram_message_id": 557
+      "telegram_message_id": 1051
     },
     "https://aividia.ir/perioral-facial-dermatitis/": {
       "title": "درماتیت صورت و دور دهان؛ علل سوزش و قرمزی صورت و درمان قطعی",
@@ -2191,6 +2191,12 @@
       "title": "راهنمای جامع بیماری ویتیلیگو، برص و پیسی: علائم، علت خودایمنی و انواع آن",
       "published_at": "2026-11-02T14:50:13.017889",
       "message_id": 1047
+    },
+    {
+      "url": "https://aividia.ir/what-is-seborrheic-dermatitis/",
+      "title": "درماتیت سبورئیک (اگزما چرب) چیست؟ علائم، علت قارچی و درمان شوره و التهاب سر و صورت",
+      "published_at": "2026-11-02T19:39:44.648938",
+      "message_id": 1051
     }
   ]
 }
