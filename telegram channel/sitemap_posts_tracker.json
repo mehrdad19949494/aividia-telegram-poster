@@ -554,9 +554,9 @@
     },
     "https://aividia.ir/perioral-facial-dermatitis/": {
       "title": "درماتیت صورت و دور دهان؛ علل سوزش و قرمزی صورت و درمان قطعی",
-      "published_at": "2026-09-27T19:55:05.777811",
+      "published_at": "2026-11-02T22:23:41.489687",
       "lastmod": "2026-07-26T19:59:25+00:00",
-      "telegram_message_id": 560
+      "telegram_message_id": 1055
     },
     "https://aividia.ir/dermatitis-best-treatment/": {
       "title": "بهترین پماد و کرم برای درمان درماتیت؛ معرفی داروها، کورتون‌ها و ترمیم‌کننده‌های غیرکورتونی",
@@ -2197,6 +2197,12 @@
       "title": "درماتیت سبورئیک (اگزما چرب) چیست؟ علائم، علت قارچی و درمان شوره و التهاب سر و صورت",
       "published_at": "2026-11-02T19:39:44.648938",
       "message_id": 1051
+    },
+    {
+      "url": "https://aividia.ir/perioral-facial-dermatitis/",
+      "title": "درماتیت صورت و دور دهان؛ علل سوزش و قرمزی صورت و درمان قطعی",
+      "published_at": "2026-11-02T22:23:41.489687",
+      "message_id": 1055
     }
   ]
 }
