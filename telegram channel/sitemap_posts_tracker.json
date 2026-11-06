@@ -656,9 +656,9 @@
     },
     "https://aividia.ir/hives-in-children/": {
       "title": "کهیر در کودکان: علل، علائم و مراقبت‌های والدین",
-      "published_at": "2026-10-02T11:56:06.347322",
+      "published_at": "2026-11-06T21:52:07.710324",
       "lastmod": "2026-07-24T09:19:40+00:00",
-      "telegram_message_id": 619
+      "telegram_message_id": 1114
     },
     "https://aividia.ir/skin-fungus-guide/": {
       "title": "قارچ پوستی: علائم، علل، انواع و روش‌های تشخیص دقیق",
@@ -2299,6 +2299,12 @@
       "title": "کهیر چیست؟ علائم، علل و روش‌های تشخیص دقیق",
       "published_at": "2026-11-06T20:00:13.905220",
       "message_id": 1111
+    },
+    {
+      "url": "https://aividia.ir/hives-in-children/",
+      "title": "کهیر در کودکان: علل، علائم و مراقبت‌های والدین",
+      "published_at": "2026-11-06T21:52:07.710324",
+      "message_id": 1114
     }
   ]
 }
