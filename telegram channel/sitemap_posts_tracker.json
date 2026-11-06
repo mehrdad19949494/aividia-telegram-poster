@@ -638,9 +638,9 @@
     },
     "https://aividia.ir/what-is-scabies/": {
       "title": "گال چیست؟ علائم، علل، تشخیص و عوارض بیماری گال",
-      "published_at": "2026-10-01T16:36:32.301396",
+      "published_at": "2026-11-06T13:46:27.225324",
       "lastmod": "2026-07-24T12:01:35+00:00",
-      "telegram_message_id": 609
+      "telegram_message_id": 1103
     },
     "https://aividia.ir/scabies-in-children/": {
       "title": "گال در کودکان و نوزادان: علائم خاص، راهنمای والدین",
@@ -2281,6 +2281,12 @@
       "title": "آکنه و جوش صورت چیست؟ علل، علائم، مکانیسم ایجاد و روش‌های تشخیص",
       "published_at": "2026-11-05T22:27:10.130887",
       "message_id": 1100
+    },
+    {
+      "url": "https://aividia.ir/what-is-scabies/",
+      "title": "گال چیست؟ علائم، علل، تشخیص و عوارض بیماری گال",
+      "published_at": "2026-11-06T13:46:27.225324",
+      "message_id": 1103
     }
   ]
 }
