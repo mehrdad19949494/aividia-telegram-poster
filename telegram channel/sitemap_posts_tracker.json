@@ -644,9 +644,9 @@
     },
     "https://aividia.ir/scabies-in-children/": {
       "title": "گال در کودکان و نوزادان: علائم خاص، راهنمای والدین",
-      "published_at": "2026-10-01T18:57:51.693905",
+      "published_at": "2026-11-06T16:51:49.804016",
       "lastmod": "2026-07-24T10:56:12+00:00",
-      "telegram_message_id": 613
+      "telegram_message_id": 1107
     },
     "https://aividia.ir/what-is-hives/": {
       "title": "کهیر چیست؟ علائم، علل و روش‌های تشخیص دقیق",
@@ -2287,6 +2287,12 @@
       "title": "گال چیست؟ علائم، علل، تشخیص و عوارض بیماری گال",
       "published_at": "2026-11-06T13:46:27.225324",
       "message_id": 1103
+    },
+    {
+      "url": "https://aividia.ir/scabies-in-children/",
+      "title": "گال در کودکان و نوزادان: علائم خاص، راهنمای والدین",
+      "published_at": "2026-11-06T16:51:49.804016",
+      "message_id": 1107
     }
   ]
 }
