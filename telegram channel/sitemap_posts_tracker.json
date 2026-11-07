@@ -680,9 +680,9 @@
     },
     "https://aividia.ir/what-is-mole/": {
       "title": "خال پوستی چیست؟ انواع، علل تشکیل و علائم خطرناک",
-      "published_at": "2026-10-03T11:09:01.308977",
+      "published_at": "2026-11-07T20:36:02.563928",
       "lastmod": "2026-07-23T12:22:29+00:00",
-      "telegram_message_id": 633
+      "telegram_message_id": 1128
     },
     "https://aividia.ir/night-itch-scabies/": {
       "title": "خارش شدید شبانه؛ آیا گال دارید؟ راه‌های تشخیص و درمان قطعی",
@@ -2323,6 +2323,12 @@
       "title": "زگیل چیست؟ انواع زگیل، علت، راه‌های تشخیص و درمان قطعی",
       "published_at": "2026-11-07T18:08:17.974668",
       "message_id": 1125
+    },
+    {
+      "url": "https://aividia.ir/what-is-mole/",
+      "title": "خال پوستی چیست؟ انواع، علل تشکیل و علائم خطرناک",
+      "published_at": "2026-11-07T20:36:02.563928",
+      "message_id": 1128
     }
   ]
 }
