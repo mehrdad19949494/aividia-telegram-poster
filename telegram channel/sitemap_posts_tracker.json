@@ -692,9 +692,9 @@
     },
     "https://aividia.ir/what-is-eczema/": {
       "title": "اگزما چیست؟ علائم، علل، انواع و تشخیص دقیق آن",
-      "published_at": "2026-10-03T17:29:12.713489",
+      "published_at": "2026-11-08T16:09:14.867535",
       "lastmod": "2026-07-23T10:51:34+00:00",
-      "telegram_message_id": 641
+      "telegram_message_id": 1135
     },
     "https://aividia.ir/eczema-in-children/": {
       "title": "اگزما در کودکان و نوزادان: علائم، مراقبت و مدیریت والدین",
@@ -2335,6 +2335,12 @@
       "title": "خارش شدید شبانه؛ آیا گال دارید؟ راه‌های تشخیص و درمان قطعی",
       "published_at": "2026-11-08T12:48:45.921025",
       "message_id": 1131
+    },
+    {
+      "url": "https://aividia.ir/what-is-eczema/",
+      "title": "اگزما چیست؟ علائم، علل، انواع و تشخیص دقیق آن",
+      "published_at": "2026-11-08T16:09:14.867535",
+      "message_id": 1135
     }
   ]
 }
