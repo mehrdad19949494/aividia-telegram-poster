@@ -686,9 +686,9 @@
     },
     "https://aividia.ir/night-itch-scabies/": {
       "title": "خارش شدید شبانه؛ آیا گال دارید؟ راه‌های تشخیص و درمان قطعی",
-      "published_at": "2026-10-03T14:22:44.982720",
+      "published_at": "2026-11-08T12:48:45.921025",
       "lastmod": "2026-07-23T11:13:40+00:00",
-      "telegram_message_id": 637
+      "telegram_message_id": 1131
     },
     "https://aividia.ir/what-is-eczema/": {
       "title": "اگزما چیست؟ علائم، علل، انواع و تشخیص دقیق آن",
@@ -2329,6 +2329,12 @@
       "title": "خال پوستی چیست؟ انواع، علل تشکیل و علائم خطرناک",
       "published_at": "2026-11-07T20:36:02.563928",
       "message_id": 1128
+    },
+    {
+      "url": "https://aividia.ir/night-itch-scabies/",
+      "title": "خارش شدید شبانه؛ آیا گال دارید؟ راه‌های تشخیص و درمان قطعی",
+      "published_at": "2026-11-08T12:48:45.921025",
+      "message_id": 1131
     }
   ]
 }
