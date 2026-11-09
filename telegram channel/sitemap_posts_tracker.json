@@ -716,9 +716,9 @@
     },
     "https://aividia.ir/prevalent-skin-disease-ai-diagnosis/": {
       "title": "انواع ضایعات پوستی شایع در ایران: هوش مصنوعی",
-      "published_at": "2026-10-04T17:44:03.021343",
+      "published_at": "2026-11-09T19:56:54.093449",
       "lastmod": "2026-07-14T13:25:30+00:00",
-      "telegram_message_id": 655
+      "telegram_message_id": 1149
     },
     "https://aividia.ir/ai-vs-doctors-skin-diagnosis-accuracy/": {
       "title": "هوش مصنوعی در مقابل متخصص پوست: حقایق علمی درباره دقت و محدودیت‌های اسکنرهای پوست",
@@ -2359,6 +2359,12 @@
       "title": "تشخیص بیماری با هوش مصنوعی - معرفی مدل پیشرفته ی",
       "published_at": "2026-11-09T15:16:50.428900",
       "message_id": 1145
+    },
+    {
+      "url": "https://aividia.ir/prevalent-skin-disease-ai-diagnosis/",
+      "title": "انواع ضایعات پوستی شایع در ایران: هوش مصنوعی",
+      "published_at": "2026-11-09T19:56:54.093449",
+      "message_id": 1149
     }
   ]
 }
