@@ -11909,9 +11909,9 @@
     "has_photo": true,
     "photo_url": "telegram channel/images/infographic_scabies_vs_eczema.jpg",
     "utm_campaign": "post_851_0800",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-11-09T13:13:13.849490",
+    "telegram_message_id": 1144
   },
   {
     "id": 852,
