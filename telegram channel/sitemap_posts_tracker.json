@@ -746,9 +746,9 @@
     },
     "https://aividia.ir/ai-skin-cancer-screening-with-aividia/": {
       "title": "تشخیص سرطان پوست با هوش مصنوعی: اسکن آنلاین و بررسی خال‌های مشکوک",
-      "published_at": "2026-10-06T12:48:04.829590",
+      "published_at": "2026-11-10T20:31:23.984784",
       "lastmod": "2026-07-13T14:04:46+00:00",
-      "telegram_message_id": 673
+      "telegram_message_id": 1167
     },
     "https://aividia.ir/skin-infection-home-remedies/": {
       "title": "درمان خانگی عفونت پوستی: روشهای طبیعی و مراقبت اولیه",
@@ -2389,6 +2389,12 @@
       "title": "بهترین برنامه تشخیص بیماری پوستی با عکس: از گوگل لنز تا هوش مصنوعی",
       "published_at": "2026-11-10T17:11:27.445671",
       "message_id": 1163
+    },
+    {
+      "url": "https://aividia.ir/ai-skin-cancer-screening-with-aividia/",
+      "title": "تشخیص سرطان پوست با هوش مصنوعی: اسکن آنلاین و بررسی خال‌های مشکوک",
+      "published_at": "2026-11-10T20:31:23.984784",
+      "message_id": 1167
     }
   ]
 }
