@@ -728,9 +728,9 @@
     },
     "https://aividia.ir/how-to-take-picture-ai-skin-analysis/": {
       "title": "راهنمای جامع عکاسی پزشکی با موبایل برای تشخیص هوش مصنوعی",
-      "published_at": "2026-10-05T13:41:24.881448",
+      "published_at": "2026-11-10T00:29:40.177809",
       "lastmod": "2026-07-14T12:34:04+00:00",
-      "telegram_message_id": 661
+      "telegram_message_id": 1156
     },
     "https://aividia.ir/ai-skin-disease-diagnosis-aividia-model-structure/": {
       "title": "فناوری تشخیص بیماری پوستی با عکس هوش مصنوعی و واکاوی فنی مدل ۷۲۴",
@@ -2371,6 +2371,12 @@
       "title": "هوش مصنوعی در مقابل متخصص پوست: حقایق علمی درباره دقت و محدودیت‌های اسکنرهای پوست",
       "published_at": "2026-11-09T23:03:59.704742",
       "message_id": 1153
+    },
+    {
+      "url": "https://aividia.ir/how-to-take-picture-ai-skin-analysis/",
+      "title": "راهنمای جامع عکاسی پزشکی با موبایل برای تشخیص هوش مصنوعی",
+      "published_at": "2026-11-10T00:29:40.177809",
+      "message_id": 1156
     }
   ]
 }
