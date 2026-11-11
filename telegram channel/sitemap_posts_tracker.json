@@ -758,9 +758,9 @@
     },
     "https://aividia.ir/skin-infection-children/": {
       "title": "عفونت پوستی در کودکان و نوزادان — علل و مراقبت‌های ویژه",
-      "published_at": "2026-10-06T18:58:20.084290",
+      "published_at": "2026-11-11T13:37:08.076865",
       "lastmod": "2026-07-13T10:46:05+00:00",
-      "telegram_message_id": 681
+      "telegram_message_id": 1173
     },
     "https://aividia.ir/skin-infection-treatment-clinics/": {
       "title": "بهترین داروها و کلینیک‌های درمان عفونت پوستی",
@@ -2401,6 +2401,12 @@
       "title": "درمان خانگی عفونت پوستی: روشهای طبیعی و مراقبت اولیه",
       "published_at": "2026-11-10T22:02:16.724906",
       "message_id": 1170
+    },
+    {
+      "url": "https://aividia.ir/skin-infection-children/",
+      "title": "عفونت پوستی در کودکان و نوزادان — علل و مراقبت‌های ویژه",
+      "published_at": "2026-11-11T13:37:08.076865",
+      "message_id": 1173
     }
   ]
 }
