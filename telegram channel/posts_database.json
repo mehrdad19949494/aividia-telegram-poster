@@ -12455,9 +12455,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_890_2130",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-11-12T23:08:46.402687",
+    "telegram_message_id": 1199
   },
   {
     "id": 891,
