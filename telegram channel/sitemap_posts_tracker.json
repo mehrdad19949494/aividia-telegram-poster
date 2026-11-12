@@ -794,9 +794,9 @@
     },
     "https://aividia.ir/skin-routine-introduction/": {
       "title": "روتین پوستی چیست؟ راهنمای جامع مراحل روزانه و شبانه",
-      "published_at": "2026-10-08T12:51:52.824142",
+      "published_at": "2026-11-12T20:59:02.981505",
       "lastmod": "2026-06-03T09:17:10+00:00",
-      "telegram_message_id": 701
+      "telegram_message_id": 1194
     },
     "https://aividia.ir/dermatit-tamasi-dar-kodakan/": {
       "title": "درماتیت تماسی در کودکان: علل و مراقبت‌های ویژه",
@@ -2437,6 +2437,12 @@
       "title": "مراقبت خانگی ویتیلیگو: روش‌های طبیعی و گیاهی",
       "published_at": "2026-11-12T17:40:33.449097",
       "message_id": 1191
+    },
+    {
+      "url": "https://aividia.ir/skin-routine-introduction/",
+      "title": "روتین پوستی چیست؟ راهنمای جامع مراحل روزانه و شبانه",
+      "published_at": "2026-11-12T20:59:02.981505",
+      "message_id": 1194
     }
   ]
 }
