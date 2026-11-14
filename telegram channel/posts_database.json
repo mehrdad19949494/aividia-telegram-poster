@@ -12665,9 +12665,9 @@
     "has_photo": true,
     "photo_url": "telegram channel/images/infographic_glp1_titration.jpg",
     "utm_campaign": "post_905_1400",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-11-14T19:42:34.979345",
+    "telegram_message_id": 1222
   },
   {
     "id": 906,
