@@ -13323,9 +13323,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_952_0930",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-11-19T21:41:50.498050",
+    "telegram_message_id": 1288
   },
   {
     "id": 953,
