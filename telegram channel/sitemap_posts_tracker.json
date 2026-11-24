@@ -242,9 +242,9 @@
     },
     "https://aividia.ir/cutaneous-vasculitis-purpura-guide/": {
       "title": "واسکولیت پوستی چیست؟ عکس انواع لکه‌های ارغوانی (پورپورا)، خطرات داخلی و مراقبت‌های خانگی",
-      "published_at": "2026-10-20T14:24:44.045692",
+      "published_at": "2026-11-24T23:10:23.190919",
       "lastmod": "2026-09-14T20:07:38+00:00",
-      "telegram_message_id": 869
+      "telegram_message_id": 1358
     },
     "https://aividia.ir/skin-routine-khanegi/": {
       "title": "روتین پوستی خانگی با مواد طبیعی: درمان‌ ساده مشکلات رایج",
@@ -2707,6 +2707,12 @@
       "title": "گال تناسلی در مردان و زنان: علائم، فرق با زگیل و هرپس + درمان محرمانه فوری توسط پزشک",
       "published_at": "2026-11-24T20:16:22.406652",
       "message_id": 1354
+    },
+    {
+      "url": "https://aividia.ir/cutaneous-vasculitis-purpura-guide/",
+      "title": "واسکولیت پوستی چیست؟ عکس انواع لکه‌های ارغوانی (پورپورا)، خطرات داخلی و مراقبت‌های خانگی",
+      "published_at": "2026-11-24T23:10:23.190919",
+      "message_id": 1358
     }
   ]
 }
