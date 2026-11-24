@@ -13939,9 +13939,9 @@
     "has_photo": false,
     "photo_url": "",
     "utm_campaign": "post_996_1530",
-    "status": "pending",
-    "published_at": null,
-    "telegram_message_id": null
+    "status": "published",
+    "published_at": "2026-11-24T15:07:10.996492",
+    "telegram_message_id": 1349
   },
   {
     "id": 997,
